@@ -1,0 +1,9 @@
+{
+    "temperature": "20",
+    "wind": "23",
+	"humidity":"24" ,
+    "moreInfo": [
+      "Warning! heavy rainfall",
+	  "Super Weather App"
+    ]
+}
